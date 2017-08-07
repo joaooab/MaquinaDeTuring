@@ -1,2 +1,2 @@
 # MaquinaDeTuring
-CadastroDePacientes - Sistema em JavaScript para inciantes na plataforma
+Máquina de turing em JAVA
